@@ -2,7 +2,8 @@
 
 <p align="center">
   <strong>Pipeline Deliberativo Multiagente de Alta Maturidade para Pesquisa e Produção</strong><br>
-  <em>Iniciação Científica em Sistemas Multiagentes & Inteligência Artificial (Subgrupo C & Subgrupo D)</em>
+  <em>Iniciação Científica em Sistemas Multiagentes & Inteligência Artificial (Subgrupo C & Subgrupo D)</em><br>
+  <strong>Autores:</strong> Calebe Ferreira Carvalho & Marcos de Oliveira Campos (Subgrupo C)
 </p>
 
 <p align="center">
@@ -35,6 +36,7 @@
 - [Guia Rápido de Instalação e Uso](#-guia-rápido-de-instalação-e-uso)
 - [Suíte de Testes Automatizados](#-suíte-de-testes-automatizados)
 - [Retrocompatibilidade](#-retrocompatibilidade)
+- [Autoria & Créditos](#-autoria--créditos)
 
 ---
 
@@ -494,7 +496,19 @@ sistema.salvar_documento_5("Documento_5_Decisoes.json")
 
 ---
 
+## 👥 Autoria & Créditos
+
+Este projeto foi **arquitetado e produzido por**:
+
+- **Calebe Ferreira Carvalho** — *Pesquisador e Desenvolvedor (Membro do Subgrupo C)*
+- **Marcos de Oliveira Campos** — *Pesquisador e Desenvolvedor (Membro do Subgrupo C)*
+
+Projeto desenvolvido no escopo de **Iniciação Científica em Sistemas Multiagentes & Inteligência Artificial**, integrando o ciclo deliberativo percepção-decisão com alta resiliência e isolamento tático estrito de segurança (**Subgrupo D**).
+
+---
+
 <p align="center">
+  Arquitetado e produzido por <strong>Calebe Ferreira Carvalho</strong> e <strong>Marcos de Oliveira Campos</strong> (Subgrupo C).<br>
   Desenvolvido com excelência técnica para o <strong>Subgrupo C & Subgrupo D</strong> de Iniciação Científica.<br>
   <sub>Engenharia de Software • Sistemas Multiagentes • Inteligência Artificial</sub>
 </p>
