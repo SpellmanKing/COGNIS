@@ -1,0 +1,79 @@
+[
+  {
+    "ciclo_id": 1,
+    "perfil_estrategico": "Agressivo",
+    "decisao_executada": {
+      "scratchpad": {
+        "analise_situacional": "Inimigo a curta distância (distância 3). Condição de combate iminente.",
+        "ponderacao_risco": "ALTO",
+        "hipotese_tatica": "Avanço direto para neutralizar vetor de dano antes que fortifique."
+      },
+      "acao": "AVANCAR",
+      "justificativa": "Ameaça hostil detectada a 3 unidades; avançando para engajamento tático.",
+      "alvo_coordenada": {
+        "x": 15,
+        "y": 8
+      },
+      "urgencia": "ALTA"
+    },
+    "resposta_valida": true,
+    "motivo_inativo": null
+  },
+  {
+    "ciclo_id": 1,
+    "perfil_estrategico": "Defensivo",
+    "decisao_executada": {
+      "scratchpad": {
+        "analise_situacional": "Ameaça próxima identificada, energia em 78%.",
+        "ponderacao_risco": "MEDIO",
+        "hipotese_tatica": "Consolidar posição defensiva sem dispersar energia operacional."
+      },
+      "acao": "DEFENDER",
+      "justificativa": "Inimigo próximo detectado no setor; mantendo contenção e escudo de proteção.",
+      "alvo_coordenada": null,
+      "urgencia": "MEDIA"
+    },
+    "resposta_valida": true,
+    "motivo_inativo": null
+  },
+  {
+    "ciclo_id": 1,
+    "perfil_estrategico": "Explorador",
+    "decisao_executada": {
+      "scratchpad": {
+        "analise_situacional": "Bateria próxima e quadrantes vizinhos sem mapeamento completo.",
+        "ponderacao_risco": "BAIXO",
+        "hipotese_tatica": "Traçar rota de patrulha para expandir visão tática e identificar nós de interesse."
+      },
+      "acao": "PATRULHAR",
+      "justificativa": "Buscando novas rotas ao redor para mapear o setor inexplorado.",
+      "alvo_coordenada": {
+        "x": 12,
+        "y": 12
+      },
+      "urgencia": "BAIXA"
+    },
+    "resposta_valida": true,
+    "motivo_inativo": null
+  },
+  {
+    "ciclo_id": 1,
+    "perfil_estrategico": "Oportunista",
+    "decisao_executada": {
+      "scratchpad": {
+        "analise_situacional": "Bateria a 1 unidade. Inimigo a 3 unidades. Janela de oportunidade viável.",
+        "ponderacao_risco": "MEDIO",
+        "hipotese_tatica": "Coletar o recurso rapidamente e preparar recuo se o inimigo avançar."
+      },
+      "acao": "COLETAR_RECURSO",
+      "justificativa": "Recurso de bateria a 1 unidade de distância com risco de combate controlado.",
+      "alvo_coordenada": {
+        "x": 13,
+        "y": 8
+      },
+      "urgencia": "MEDIA"
+    },
+    "resposta_valida": true,
+    "motivo_inativo": null
+  }
+]
